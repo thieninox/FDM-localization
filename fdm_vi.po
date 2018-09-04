@@ -12,7 +12,7 @@ msgid "Download with FDM"
 msgstr "Tải xuống với FDM"
 
 msgid "Download selected with FDM"
-msgstr "Tải về lựa chọn với FDM"
+msgstr "Tải xuống Mục đã chọn với FDM"
 
 msgid "Download video with FDM"
 msgstr "Tải xuống video với FDM"
@@ -26,7 +26,7 @@ msgstr "Không tìm thấy video flash. Thử tải lại trang này."
 #, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "Đường dẫn thư mục chỉ định là tương đối, đường dẫn đầy đủ là %1"
 
 #, fuzzy, qt-format
 msgctxt "Download|"
@@ -46,16 +46,16 @@ msgstr "%1 MB"
 #, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "Đang kết nối lại sau %1 giây"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "Đặt mức ưu tiên thành %1"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "Hàng đợi: Chế độ Ốc sên đang bật. Tắt để tiếp tục"
 
 #, fuzzy
 msgctxt "Download|"
@@ -122,7 +122,7 @@ msgstr "Đóng kết nối máy chủ từ xa"
 
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr "Kết nối đã hết"
+msgstr "Kết nối đã hết hạn"
 
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
@@ -162,19 +162,19 @@ msgstr "Không tìm thấy"
 
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr "Phương pháp không được phép"
+msgstr "Phương pháp Không Được phép"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr "Không thể chấp nhận"
+msgstr "Không thể Chấp nhận"
 
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr "Yêu cầu xác thực Proxy"
+msgstr "Yêu cầu Xác thực Proxy"
 
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr "Hết thời gian yêu cầu"
+msgstr "Hết Thời gian yêu cầu"
 
 msgctxt "HttpError|"
 msgid "Conflict"
@@ -186,47 +186,47 @@ msgstr "Không còn"
 
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr "Chiều dài yêu cầu"
+msgstr "Chiều dài Yêu cầu"
 
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr "Điều kiện trước thất bại"
+msgstr "Điều kiện trước Thất bại"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr "Yêu cầu đối tượng quá lớn"
+msgstr "Yêu cầu Đối tượng Quá Lớn"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr "Yêu cầu-URI quá lâu"
+msgstr "Yêu cầu-URL Quá Lâu"
 
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr "Loại phương tiện không được hỗ trợ"
+msgstr "Loại Phương tiện Không được Hỗ trợ"
 
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr "Phạm vi yêu cầu không thỏa mãn"
+msgstr "Phạm vi Yêu cầu Không Thỏa mãn"
 
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr "Chờ đợi không thành công"
+msgstr "Chờ đợi Không Thành công"
 
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr "Tôi là một ấm trà"
+msgstr "Tôi là một Ấm trà"
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr "Hết thời gian xác thực"
+msgstr "Hết Thời gian Xác thực"
 
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr "Phương pháp thất bại / Nâng cao sự bình tĩnh của bạn"
+msgstr "Phương pháp Thất bại / Nâng cao Sự bình tĩnh của Bạn"
 
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr "Thực thể không thể xử lý"
+msgstr "Thực thể Không thể Xử lý"
 
 msgctxt "HttpError|"
 msgid "Locked"
@@ -234,35 +234,35 @@ msgstr "Bị khóa"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr "Phụ thuộc thất bại / Phương pháp thất bại"
+msgstr "Phụ thuộc Thất bại / Phương pháp Thất bại"
 
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr "Bộ sưu tập không có thứ tự"
+msgstr "Bộ sưu tập Không có Thứ tự"
 
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr "Yêu cầu nâng cấp"
+msgstr "Yêu cầu Nâng cấp"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
-msgstr "Yêu cầu điều kiện bắt buộc"
+msgstr "Điều kiện Tiên quyết Bắt buộc"
 
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr "Quá nhiều yêu cầu"
+msgstr "Quá nhiều Yêu cầu"
 
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr "Yêu cầu phần tiêu đề quá lớn"
+msgstr "Yêu cầu phần Tiêu đề Quá lớn"
 
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr "Hết thời gian đăng nhập"
+msgstr "Hết Thời gian Đăng nhập"
 
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr "Không phản hồi"
+msgstr "Không Phản hồi"
 
 msgctxt "HttpError|"
 msgid "Retry With"
@@ -270,15 +270,15 @@ msgstr "Thử lại với"
 
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr "Chặn bằng Windows Parental Controls"
+msgstr "Bị Chặn bằng Windows Parental Controls"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
-msgstr "Không có sẵn vì lý do pháp lý"
+msgstr "Không có sẵn vì Lý do Pháp lý"
 
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr "Yêu cầu tiêu đề quá lớn"
+msgstr "Yêu cầu Tiêu đề Quá Lớn"
 
 msgctxt "HttpError|"
 msgid "Cert Error"
@@ -298,15 +298,15 @@ msgstr "Dấu hiệu hết hạn / không hợp lệ"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
-msgstr "Khách hàng yêu cầu đóng"
+msgstr "Máy tải Yêu cầu Đóng"
 
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr "Lỗi máy chủ nội bộ"
+msgstr "Lỗi Máy chủ Nội bộ"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr "Không được thực hiện"
+msgstr "Không được Thực hiện"
 
 msgctxt "HttpError|"
 msgid "Bad Gateway"
@@ -314,43 +314,43 @@ msgstr "Cổng xấu"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr "Dịch vụ không sẵn có"
+msgstr "Dịch vụ không Sẵn có"
 
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr "Cổng hết thời gian"
+msgstr "Cổng hết Thời gian"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr "Không hỗ trợ phiên bản HTTP"
+msgstr "Không Hỗ trợ Phiên bản HTTP"
 
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr "Biến thể cũng đàm phán"
+msgstr "Biến thể Cũng Đàm phán"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr "Không đủ bộ nhớ"
+msgstr "Không đủ Bộ nhớ"
 
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr "Phát hiện vòng lặp"
+msgstr "Phát hiện Vòng lặp"
 
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr "Vượt quá giới hạn băng thông"
+msgstr "Vượt quá Giới hạn Băng thông"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr "Không mở rộng"
+msgstr "Không phần Mở rộng"
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr "Yêu cầu xác thực mạng"
+msgstr "Yêu cầu Xác thực Mạng"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr "Lỗi hết thời gian đọc mạng"
+msgstr "Lỗi hết Thời gian đọc mạng"
 
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
@@ -385,7 +385,7 @@ msgstr "Đang kết nối lại"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr "Bắt đầu tải về"
+msgstr "Bắt đầu tải xuống"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
@@ -421,7 +421,7 @@ msgstr "Tệp tin được đổi tên thành %1"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
-msgstr ""
+msgstr "Sử dụng lại kết nối #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -435,15 +435,15 @@ msgstr "#%1 đã đóng"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr ""
+msgstr "Không thể hoàn tất tải xuống"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr "Đang mở tệp tin trên đĩa ..."
+msgstr "Đang mở tệp tin trên ổ cứng ..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr "Thiếu tệp tin"
+msgstr "Tập tin bị mất"
 
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
@@ -455,11 +455,11 @@ msgstr "Loại bỏ phần mở rộng tệp tin tạm thời"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr "Đặt trước không gian đĩa để tải xuống"
+msgstr "Đặt trước không gian ổ cứng để tải xuống"
 
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "Lỗi không mong đợi"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
@@ -468,7 +468,7 @@ msgstr "Tệp tin đã được thay đổi trên máy chủ từ xa"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr ""
+msgstr "Không thể sử dụng lại kết nối #%1, đóng"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -510,7 +510,7 @@ msgstr "Di chuyển tệp thành công"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr "Chuyển tệp tin không thành công"
+msgstr "Di chuyển tệp không thành công"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -561,7 +561,7 @@ msgstr "Chỉnh sửa"
 
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
-msgstr "Xóa từ danh sách"
+msgstr "Xóa từ Danh sách"
 
 #, qt-format
 msgctxt "MacMainMenu|"
@@ -574,27 +574,27 @@ msgstr "Sở thích..."
 
 msgctxt "MacMainMenu|"
 msgid "Check for Updates..."
-msgstr "Kiểm tra cập nhật..."
+msgstr "Kiểm tra Cập nhật..."
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr "Bắt đầu được chọn"
+msgstr "Bắt đầu Mục đã chọn"
 
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr "Tạm dừng đã chọn"
+msgstr "Tạm dừng Mục đã chọn"
 
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr "Khởi động lại đã chọn"
+msgstr "Khởi động lại Mục đã chọn"
 
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
-msgstr "Liên hệ hỗ trợ"
+msgstr "Liên hệ Hỗ trợ"
 
 msgctxt "MacMainMenu|"
 msgid "Vote for New Features"
-msgstr "Bình chọn cho tính năng mới"
+msgstr "Bình chọn cho Tính năng Mới"
 
 msgctxt "MacMainMenu|"
 msgid "File"
@@ -618,7 +618,7 @@ msgstr "Sở thích"
 
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr "Kiểm tra cập nhật..."
+msgstr "Kiểm tra Cập nhật..."
 
 msgctxt "QObject|"
 msgid "Window"
@@ -626,7 +626,7 @@ msgstr "Cửa sổ"
 
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr "Giảm thiểu"
+msgstr "Thu nhỏ"
 
 msgctxt "QObject|"
 msgid "Zoom"
@@ -638,15 +638,15 @@ msgstr "Vào toàn màn hình"
 
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr "Mang tất cả lên Font"
+msgstr "Đưa Tất cả lên Phía trước"
 
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr "Liên hệ hỗ trợ"
+msgstr "Liên hệ Hỗ trợ"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
-msgstr "Mở tệp tin Torrent ..."
+msgstr "Mở Tệp tin Torrent ..."
 
 msgctxt "QObject|"
 msgid "File"
@@ -654,7 +654,7 @@ msgstr "Tệp tin"
 
 msgctxt "QObject|"
 msgid "Select All"
-msgstr "Chọn tất cả"
+msgstr "Chọn Tất cả"
 
 msgctxt "QObject|"
 msgid "Delete"
@@ -703,36 +703,36 @@ msgstr "Không thể truy cập vào thư mục đã chỉ định."
 #, fuzzy
 msgctxt "QObject|"
 msgid "Files are missing"
-msgstr "Các tệp tin bị thiếu"
+msgstr "Các tệp tin bị mất"
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "File is missing"
-msgstr "Thiếu tệp tin"
+msgstr "Tập tin bị mất"
 
 msgctxt "QObject|"
 msgid "Confirm"
-msgstr ""
+msgstr "Xác nhận"
 
 msgctxt "QObject|"
 msgid "Attention! "
-msgstr ""
+msgstr "Chú ý"
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "Máy tính của bạn sẽ được đặt ở chế độ Ngủ."
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
-msgstr ""
+msgstr "Máy tính của bạn sẽ được Ngủ đông."
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "Máy tính của bạn sẽ được tắt."
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "Đăng nhập hoặc mật khẩu không chính xác"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -740,7 +740,7 @@ msgstr "địa phương"
 
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr "Kéo thả"
+msgstr "Kéo & Thả"
 
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
@@ -760,7 +760,7 @@ msgstr "Không giới hạn"
 
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr "Hướng dẫn ..."
+msgstr "Đặt bằng tay..."
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
@@ -784,7 +784,7 @@ msgstr "không giới hạn"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
-msgstr "Chế độ ốc sên giải phóng băng thông mà không dừng tải xuống."
+msgstr "Chế độ Ốc sên giải phóng băng thông mà không cần dừng tải xuống."
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
@@ -798,7 +798,7 @@ msgstr "Hiển thị chi tiết"
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
-msgstr[0] "%n đã chọn tập tin."
+msgstr[0] "%n tệp được chọn."
 
 msgctxt "RPCLocalization|"
 msgid "Show in folder"
@@ -806,7 +806,7 @@ msgstr "Hiển thị trong thư mục"
 
 msgctxt "RPCLocalization|"
 msgid "Reveal in Finder"
-msgstr "Tiết lộ trong tìm kiếm"
+msgstr "Hiển thị trong Trình tìm kiếm"
 
 msgctxt "RPCLocalization|"
 msgid "Pause"
@@ -834,7 +834,7 @@ msgstr "Kích thước tập tin:"
 
 msgctxt "RPCLocalization|"
 msgid "Disk space:"
-msgstr "Không gian đĩa:"
+msgstr "Không gian ổ cứng:"
 
 msgctxt "RPCLocalization|"
 msgid "Total size:"
@@ -858,7 +858,7 @@ msgstr "Tốc độ:"
 
 msgctxt "RPCLocalization|"
 msgid "Domain:"
-msgstr "Miền:"
+msgstr "Tên miền:"
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded:"
@@ -890,7 +890,7 @@ msgstr "IP"
 
 msgctxt "RPCLocalization|"
 msgid "Client"
-msgstr "Khách hàng"
+msgstr "Máy tải"
 
 msgctxt "RPCLocalization|"
 msgid "Flags"
@@ -922,7 +922,7 @@ msgstr "Ngang hàng"
 
 msgctxt "RPCLocalization|"
 msgid "Log"
-msgstr "Đăng nhập"
+msgstr "Nhật ký"
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
@@ -934,7 +934,7 @@ msgstr "Tiến độ"
 
 msgctxt "RPCLocalization|"
 msgid "Priority"
-msgstr "Sự ưu tiên"
+msgstr "Ưu tiên"
 
 msgctxt "RPCLocalization|"
 msgid "URL"
@@ -946,7 +946,7 @@ msgstr "Thông báo tiếp theo"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode"
-msgstr "Chế độ ốc sên"
+msgstr "Chế độ Ốc sên"
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Bandwidth limits"
 #~ msgstr "Giới hạn băng thông"
@@ -983,7 +983,7 @@ msgstr "Áp dụng"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic limits"
-msgstr ""
+msgstr "Giới hạn lưu lượng truy cập"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
@@ -995,7 +995,7 @@ msgstr "Tiếp"
 
 msgctxt "RPCLocalization|"
 msgid "Proceed to download"
-msgstr "Tiến hành để tải xuống"
+msgstr "Tiến hành tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Add download"
@@ -1003,7 +1003,7 @@ msgstr "Thêm tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Enter download URL:"
-msgstr "Vào tải xuống URL:"
+msgstr "Nhập URL tải xuống:"
 
 msgctxt "RPCLocalization|"
 msgid "OK"
@@ -1015,7 +1015,7 @@ msgstr "Tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Download anyway"
-msgstr "Tải xuống bất chấp"
+msgstr "Vẫn Tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Add"
@@ -1059,11 +1059,11 @@ msgstr "Bạn muốn tải trình theo dõi của nó?"
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
-msgstr "Không chủ động tải xuống"
+msgstr "Không tải xuống hoạt động"
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
-msgstr "Không hoàn thành tải xuống"
+msgstr "Không tải xuống hoàn thành"
 
 msgctxt "RPCLocalization|"
 msgid "No results found for"
@@ -1099,7 +1099,7 @@ msgstr "Kết hợp các luồng truyền thông"
 
 msgctxt "RPCLocalization|"
 msgid "Allocating disk space..."
-msgstr "Phân bổ không gian đĩa ..."
+msgstr "Phân bổ không gian ổ cứng ..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
@@ -1131,7 +1131,7 @@ msgstr "Đang kiểm tra tệp tin..."
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
-msgstr "Đang tải xuống, phân bổ không gian đĩa ..."
+msgstr "Đang tải xuống, phân bổ không gian ổ cứng ..."
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -1189,7 +1189,7 @@ msgstr "Ngủ đông"
 
 msgctxt "RPCLocalization|"
 msgid "Shutdown"
-msgstr "Tắt"
+msgstr "Tắt máy"
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates"
@@ -1201,11 +1201,11 @@ msgstr "Về Free Download Manager"
 
 msgctxt "RPCLocalization|"
 msgid "Quit"
-msgstr "Thoát khỏi"
+msgstr "Thoát"
 
 msgctxt "RPCLocalization|"
 msgid "Exit"
-msgstr "Lối thoát"
+msgstr "Thoát"
 
 msgctxt "RPCLocalization|"
 msgid "Vote for new features"
@@ -1265,7 +1265,7 @@ msgstr[0] "Chỉ có %n bản ghi? FDM có thể lưu trữ nhiều hơn nữa!"
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
-msgstr[0] "%n hồ sơ là quá nhiều để tiết kiệm."
+msgstr[0] "%n các bản ghi quá nhiều để lưu."
 
 msgctxt "RPCLocalization|"
 msgid "Do you actually want to connect?"
@@ -1297,11 +1297,11 @@ msgstr "BitTorrent"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
-msgstr "Giới hạn giao thông"
+msgstr "Giới hạn lưu lượng truy cập"
 
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
-msgstr "Giới hạn giao thông"
+msgstr "Giới hạn lưu lượng truy cập"
 
 msgctxt "RPCLocalization|"
 msgid "Advanced"
@@ -1369,7 +1369,7 @@ msgstr "Tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Launch at startup (minimized)"
-msgstr "Chạy lúc khởi động (giảm thiểu)"
+msgstr "Chạy lúc khởi động (Thu nhỏ)"
 
 msgctxt "RPCLocalization|"
 msgid "Open at Login"
@@ -1381,7 +1381,7 @@ msgstr "Nút đóng thu nhỏ cửa sổ"
 
 msgctxt "RPCLocalization|"
 msgid "Check if FDM is your default torrent client"
-msgstr "Kiểm tra nếu FDM là khách hàng torrent mặc định của bạn"
+msgstr "Kiểm tra nếu FDM là máy tải torrent mặc định của bạn"
 
 msgctxt "RPCLocalization|"
 msgid "Update"
@@ -1421,8 +1421,7 @@ msgstr "Thông báo"
 
 msgctxt "RPCLocalization|"
 msgid "Notify me of completed downloads via Notification Center"
-msgstr ""
-"Thông báo cho tôi về các lần tải xuống đã hoàn thành qua Trung tâm thông báo"
+msgstr "Thông báo cho tôi tải xuống hoàn thành qua Trung tâm thông báo"
 
 msgctxt "RPCLocalization|"
 msgid "Only when FDM window is inactive"
@@ -1438,7 +1437,7 @@ msgstr "Chỉ xóa khỏi danh sách"
 
 msgctxt "RPCLocalization|"
 msgid "Delete file(s) from disk"
-msgstr "Xóa tệp tin khỏi đĩa"
+msgstr "Xóa tệp tin khỏi ổ cứng"
 
 msgctxt "RPCLocalization|"
 msgid "Always ask"
@@ -1462,7 +1461,7 @@ msgstr "Safari: kích hoạt FDM"
 
 msgctxt "RPCLocalization|"
 msgid "extension"
-msgstr "mở rộng"
+msgstr "Tiện ích mở rộng"
 
 msgctxt "RPCLocalization|"
 msgid "for context menu"
@@ -1566,7 +1565,7 @@ msgstr "Tốc độ tải lên"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
-msgstr "Số lần tải đồng thời tối đa"
+msgstr "Số lượng tải xuống đồng thời tối đa"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
@@ -1592,15 +1591,15 @@ msgstr[0] "ngày"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of history records:"
-msgstr "Số lượng hồ sơ lịch sử tối đa:"
+msgstr "Số lượng bản ghi lịch sử tối đa:"
 
 msgctxt "RPCLocalization|"
 msgid "Disk usage"
-msgstr "Sử dụng đĩa"
+msgstr "Sử dụng ổ cứng"
 
 msgctxt "RPCLocalization|"
 msgid "Preallocate disk space for files larger than"
-msgstr "Đặt trước không gian đĩa cho các tệp tin lớn hơn"
+msgstr "Đặt trước không gian ổ cứng cho các tệp tin lớn hơn"
 
 msgctxt "RPCLocalization|"
 msgid "Gbytes"
@@ -1612,11 +1611,11 @@ msgstr "Chế độ quản lý năng lượng"
 
 msgctxt "RPCLocalization|"
 msgid "Prevent sleep if there are active downloads"
-msgstr "Ngăn chặn giấc ngủ nếu có tải xuống chủ động"
+msgstr "Ngăn chặn Chế độ ngủ nếu có tải xuống hoạt động"
 
 msgctxt "RPCLocalization|"
 msgid "Delete button action"
-msgstr "Nút xóa tác vụ"
+msgstr "Nút tác vụ Xóa"
 
 msgctxt "RPCLocalization|"
 msgid "Delete files"
@@ -1656,7 +1655,7 @@ msgstr "Đặt lại"
 
 msgctxt "RPCLocalization|"
 msgid "Select All"
-msgstr "Lựa chọn tất cả"
+msgstr "Chọn tất cả"
 
 msgctxt "RPCLocalization|"
 msgid "Name"
@@ -1676,7 +1675,7 @@ msgstr "Kích thước"
 
 msgctxt "RPCLocalization|"
 msgid "Added"
-msgstr "Thêm"
+msgstr "Thời điểm Thêm"
 
 msgctxt "RPCLocalization|"
 msgid "Start all"
@@ -1688,11 +1687,11 @@ msgstr "Tạm dừng tất cả"
 
 msgctxt "RPCLocalization|"
 msgid "Start selected"
-msgstr "Bắt đầu lựa chọn"
+msgstr "Bắt đầu Mục đã chọn"
 
 msgctxt "RPCLocalization|"
 msgid "Pause selected"
-msgstr "Tạm dừng lựa chọn"
+msgstr "Tạm dừng Mục đã chọn"
 
 msgctxt "RPCLocalization|"
 msgid "Add new download..."
@@ -1708,7 +1707,7 @@ msgstr "Xóa từ danh sách"
 
 msgctxt "RPCLocalization|"
 msgid "Delete selected"
-msgstr "Xóa lựa chọn"
+msgstr "Xóa Mục đã chọn"
 
 msgctxt "RPCLocalization|"
 msgid "Move to..."
@@ -1720,7 +1719,7 @@ msgstr "Tìm kiếm"
 
 msgctxt "RPCLocalization|"
 msgid "Main menu"
-msgstr "Thực đơn chính"
+msgstr "Trình đơn chính"
 
 msgctxt "RPCLocalization|"
 msgid "Delete selected downloads"
@@ -1728,7 +1727,7 @@ msgstr "Xóa các tải xuống đã chọn"
 
 msgctxt "RPCLocalization|"
 msgid "Remember my choice"
-msgstr "Hãy nhớ sự lựa chọn của tôi"
+msgstr "Nhớ sự lựa chọn của tôi"
 
 msgctxt "RPCLocalization|"
 msgid "Delete file"
@@ -1755,11 +1754,8 @@ msgid "Remove tag"
 msgstr "Xóa thẻ"
 
 msgctxt "RPCLocalization|"
-msgid ""
-"Would you like to make Free Download Manager the default torrent client?"
-msgstr ""
-"Bạn có muốn làm cho Free Download Manager trở thành khách hàng torrent  mặc "
-"định?"
+msgid "Would you like to make Free Download Manager the default torrent client?"
+msgstr "Bạn có muốn đặt Free Download Manager thành máy tải torrent mặc định?"
 
 msgctxt "RPCLocalization|"
 msgid "Don’t ask again"
@@ -1771,20 +1767,19 @@ msgstr "Đặt làm mặc định"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
-msgstr ""
-"Máy tính sẽ được đưa vào chế độ ngủ sau khi tất cả các tải xuống đã hoàn tất."
+msgstr "Máy tính sẽ được đưa vào chế độ ngủ sau khi tất cả các tải xuống hoàn thành."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will shut down after all downloads are completed."
-msgstr "Máy tính sẽ tắt sau khi tất cả các tải xong."
+msgstr "Máy tính sẽ tắt sau khi tất cả các tải xuống hoàn thành."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will hibernate after all downloads are completed."
-msgstr "Máy tính sẽ ngủ đông sau khi tất cả các tải đã hoàn tất."
+msgstr "Máy tính sẽ ngủ đông sau khi tất cả các tải đã hoàn thành."
 
 msgctxt "RPCLocalization|"
 msgid "Checking for updates..."
-msgstr "Đang kiểm tra bản cập nhật ..."
+msgstr "Đang kiểm tra cập nhật ..."
 
 msgctxt "RPCLocalization|"
 msgid "Retry"
@@ -1952,12 +1947,11 @@ msgstr "Thay đổi sở thích"
 
 msgctxt "RPCLocalization|"
 msgid "Tip"
-msgstr "Tip"
+msgstr "Mẹo"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr ""
-"Máy tính sẽ không được đưa vào giấc ngủ vì có tải xuống theo lịch trình"
+msgstr "Máy tính sẽ không được đưa vào chế độ ngủ vì có tải xuống theo lịch biểu"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
@@ -1965,7 +1959,7 @@ msgstr "Lập lịch biểu"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
-msgstr "Không đặt máy tính của bạn vào giấc ngủ nếu có lịch trình tải xuống"
+msgstr "Không đặt máy tính của bạn vào chế độ ngủ nếu có lịch biểu tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Press"
@@ -1985,11 +1979,11 @@ msgstr "Tính toán"
 
 msgctxt "RPCLocalization|"
 msgid "Calculating"
-msgstr "Tính toán"
+msgstr "Đang Tính"
 
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr "Xác minh đồng ý"
+msgstr "Xác minh OK"
 
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
@@ -1997,39 +1991,39 @@ msgstr "Xác minh thất bại"
 
 msgctxt "RPCLocalization|"
 msgid "Compare with"
-msgstr ""
+msgstr "So sánh với"
 
 msgctxt "RPCLocalization|"
 msgid "Share with friends"
-msgstr ""
+msgstr "Chia sẻ với bạn bè"
 
 msgctxt "RPCLocalization|"
 msgid "Paste urls from clipboard"
-msgstr ""
+msgstr "Dán URL từ khay nhớ tạm"
 
 msgctxt "RPCLocalization|"
 msgid "Change download URL"
-msgstr ""
+msgstr "Thay đổi URL tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Saved as:"
-msgstr ""
+msgstr "Lưu dưới dạng:"
 
 msgctxt "RPCLocalization|"
 msgid "Invalid URL"
-msgstr ""
+msgstr "URL không hợp lệ"
 
 msgctxt "RPCLocalization|"
 msgid "Start download"
-msgstr ""
+msgstr "Bắt đầu Tải xuống"
 
 msgctxt "RPCLocalization|"
 msgid "Seeding"
-msgstr ""
+msgstr "Seeding"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
-msgstr ""
+msgstr "Sử dụng thời gian máy chủ để tạo tệp"
 
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
@@ -2037,7 +2031,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "Nhập URL hoặc chọn tệp torrent"
 
 msgctxt "RPCLocalization|"
 msgid "New file"
@@ -2045,75 +2039,75 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "New files"
-msgstr ""
+msgstr "Tập tin mới"
 
 msgctxt "RPCLocalization|"
 msgid "New video"
-msgstr ""
+msgstr "Video mới"
 
 msgctxt "RPCLocalization|"
 msgid "New torrent"
-msgstr ""
+msgstr "Torrent mới"
 
 msgctxt "RPCLocalization|"
 msgid "Save to"
-msgstr ""
+msgstr "Lưu tới"
 
 msgctxt "RPCLocalization|"
 msgid "File name"
-msgstr ""
+msgstr "Tên tệp tin"
 
 msgctxt "RPCLocalization|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "Tạo thư mục con"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
-msgstr ""
+msgstr "Nội dung torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Authentication required:"
-msgstr ""
+msgstr "Yêu cầu xác thực:"
 
 msgctxt "RPCLocalization|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "Nhập URL mới"
 
 msgctxt "RPCLocalization|"
 msgid "File location"
-msgstr ""
+msgstr "Vị trí tập tin"
 
 msgctxt "RPCLocalization|"
 msgid "Download links"
-msgstr ""
+msgstr "Tải xuống liên kết"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr ""
+msgstr "Khôi phục lại các thiết lập mặc định?"
 
 msgctxt "RPCLocalization|"
 msgid "Default settings"
-msgstr ""
+msgstr "Thiết lập mặc định"
 
 msgctxt "RPCLocalization|"
 msgid "Found incomplete download with same name and size."
-msgstr ""
+msgstr "Phát hiện bản tải xuống không hoàn chỉnh có cùng tên và kích thước."
 
 msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
-msgstr ""
+msgstr "Bạn có muốn bắt đầu tải xuống mới hoặc tiếp tục không?"
 
 msgctxt "RPCLocalization|"
 msgid "Start new"
-msgstr ""
+msgstr "Bắt đầu mới"
 
 msgctxt "RPCLocalization|"
 msgid "Resume"
-msgstr ""
+msgstr "Tiếp tục"
 
 msgctxt "RPCLocalization|"
 msgid "Hash"
-msgstr ""
+msgstr "Hash"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -2122,103 +2116,103 @@ msgstr "Đường dẫn tập tin đã chọn không hợp lệ."
 
 msgctxt "RPCLocalization|"
 msgid "Special offer"
-msgstr ""
+msgstr "Đề nghị đặc biệt"
 
 msgctxt "RPCLocalization|"
 msgid "Download Youtube channel"
-msgstr ""
+msgstr "Tải xuống kênh Youtube"
 
 msgctxt "RPCLocalization|"
 msgid "Download YouTube playlist"
-msgstr ""
+msgstr "Tải xuống danh sách phát YouTube"
 
 msgctxt "RPCLocalization|"
 msgid "Add YouTube upload date to file name"
-msgstr ""
+msgstr "Thêm ngày tải lên YouTube vào tên tệp"
 
 msgctxt "RPCLocalization|"
 msgid "try again"
-msgstr ""
+msgstr "thử lại"
 
 msgctxt "RPCLocalization|"
 msgid "Videos"
-msgstr ""
+msgstr "Videos"
 
 msgctxt "RPCLocalization|"
 msgid "Load More"
-msgstr ""
+msgstr "Tải Thêm"
 
 msgctxt "RPCLocalization|"
 msgid "Video Quality"
-msgstr ""
+msgstr "Chất lượng Video"
 
 msgctxt "RPCLocalization|"
 msgid "High (1080p)"
-msgstr ""
+msgstr "Cao (1080p)"
 
 msgctxt "RPCLocalization|"
 msgid "Medium (480p)"
-msgstr ""
+msgstr "Trung bình (480p)"
 
 msgctxt "RPCLocalization|"
 msgid "Low (240p)"
-msgstr ""
+msgstr "Thấp (240p)"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n videos are chosen"
 msgid_plural "%n videos are chosen"
-msgstr[0] ""
+msgstr[0] "%n video được chọn"
 
 msgctxt "RPCLocalization|"
 msgid "A new version of the Firefox extension is available"
-msgstr ""
+msgstr "Đã có phiên bản mới của tiện ích Firefox"
 
 msgctxt "RPCLocalization|"
 msgid "To update the extension:"
-msgstr ""
+msgstr "Để cập nhật tiện ích mở rộng:"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "Click %1 to remove the old version."
-msgstr ""
+msgstr "Nhấp vào %1 để xóa phiên bản cũ."
 
 msgctxt "RPCLocalization|"
 msgid "here"
-msgstr ""
+msgstr "đây"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 the new version."
-msgstr ""
+msgstr "%1 phiên bản mới."
 
 msgctxt "RPCLocalization|"
 msgid "Install"
-msgstr ""
+msgstr "Cài đặt"
 
 msgctxt "RPCLocalization|"
 msgid "Before that, restart Firefox if it's running."
-msgstr ""
+msgstr "Trước đó, khởi động lại Firefox nếu nó đang chạy."
 
 msgctxt "RPCLocalization|"
 msgid "Error while removing:"
-msgstr ""
+msgstr "Lỗi trong khi xóa:"
 
 msgctxt "RPCLocalization|"
 msgid "Close Firefox if it's running and try again"
-msgstr ""
+msgstr "Đóng Firefox nếu nó đang chạy và thử lại"
 
 msgctxt "RPCLocalization|"
 msgid "Choose app mode"
-msgstr ""
+msgstr "Chọn chế độ ứng dụng"
 
 msgctxt "RPCLocalization|"
 msgid "Light"
-msgstr ""
+msgstr "Sáng"
 
 msgctxt "RPCLocalization|"
 msgid "Dark"
-msgstr ""
+msgstr "Tối"
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Compare with:"
 #~ msgstr "So sánh với:"
@@ -2230,7 +2224,7 @@ msgstr "Đóng"
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 left"
-msgstr "%1 chỉ còn"
+msgstr "%1 còn lại"
 
 msgctxt "RPCLocalization|"
 msgid "Browsers:"
@@ -2295,12 +2289,11 @@ msgstr "Bỏ qua các tên miền:"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is a scheduled download"
-msgstr ""
-"Không đặt máy tính của bạn vào giấc ngủ nếu có tải xuống theo lịch trình"
+msgstr "Không đặt máy tính của bạn vào chế ngủ nếu có tải xuống theo lịch biểu"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is an active download"
-msgstr "Không đặt máy tính của bạn để ngủ nếu có một tải xuống hoạt động"
+msgstr "Không đặt máy tính của bạn vào chế độ ngủ nếu có một tải xuống hoạt động"
 
 msgctxt "RPCLocalization|"
 msgid "Remove only from download list"
@@ -2324,20 +2317,20 @@ msgstr "Giữ Alt, nhấp vào liên kết để tải xuống qua trình duyệ
 
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
-msgstr "Không gian đĩa cần thiết:"
+msgstr "Không gian ổ cứng cần thiết:"
 
 msgctxt "RPCLocalization|"
 msgid "Hide bottom panel"
-msgstr "Ẩn bang xuống dưới cùng"
+msgstr "Ẩn bảng điều khiển dưới cùng"
 
 msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
-msgstr "Hiển thị bảng dưới cùng"
+msgstr "Hiển thị bảng điều khiển dưới cùng"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
-msgstr "đĩa %1"
+msgstr "ổ cứng %1"
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
@@ -2458,10 +2451,10 @@ msgstr "Tốc độ tải lên được giới hạn ở %1/s"
 #~ msgstr "Đã tạm dừng tải xuống"
 #~ msgctxt "TorrentDownload|"
 #~ msgid "Files are missing"
-#~ msgstr "Các tệp tin bị thiếu"
+#~ msgstr "Các tệp tin bị mất"
 #~ msgctxt "TorrentDownload|"
 #~ msgid "File is missing"
-#~ msgstr "Thiếu tệp tin"
+#~ msgstr "Tệp tin bị mất"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2490,7 +2483,7 @@ msgstr "Thay đổi thư mục đích"
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr "Di chuyển các tệp tin tới %1"
+msgstr "Chuyển các tệp tin tới %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2523,25 +2516,25 @@ msgstr "Các tệp tin được ánh xạ tới thư mục mới"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
-msgstr "Các tệp tin di chuyển không thành công"
+msgstr "Chuyển các tệp không thành công"
 
 msgctxt "TorrentDownload|"
 msgid "File moving failed"
-msgstr "Tệp tin di chuyển không thành công"
+msgstr "Chuyển tệp không thành công"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
-msgstr "Các tệp tin di chuyển bị giảm: %1"
+msgstr "Chuyển các tệp bị từ chối: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
-msgstr "Tập tin di chuyển đã bị từ chối: %1"
+msgstr "Chuyển tệp bị từ chối: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
-msgstr "Đã di chuyển thành công"
+msgstr "Đã chuyển thành công"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2551,7 +2544,7 @@ msgstr ", tốc độ trung bình: %1"
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
-msgstr "Các tệp tin di chuyển không thành công: %1"
+msgstr "Chuyển các tệp không thành công: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2580,7 +2573,7 @@ msgstr "Mở khi đăng nhập"
 
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr "Khởi chạy khi khởi động"
+msgstr "Chạy khi khởi động"
 
 msgctxt "TrayMenu|"
 msgid "About FDM"
@@ -2610,7 +2603,7 @@ msgstr "Mở"
 
 msgctxt "UIHelper|"
 msgid "Reveal in Finder"
-msgstr "Tiết lộ trong tìm kiếm"
+msgstr "Hiển thị trong Trình tìm kiếm"
 
 msgctxt "UIHelper|"
 msgid "Show in folder"
@@ -2626,7 +2619,7 @@ msgstr "Chọn tệp..."
 
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
-msgstr "Tạm dừng tất cả ngoại trừ đã chọn"
+msgstr "Tạm dừng tất cả ngoại trừ Mục đã chọn"
 
 msgctxt "UIHelper|"
 msgid "Pause all except this one"
@@ -2634,7 +2627,7 @@ msgstr "Tạm dừng tất cả trừ cái này"
 
 msgctxt "UIHelper|"
 msgid "Restart selected"
-msgstr "Khởi động lại đã chọn"
+msgstr "Khởi động lại Mục đã chọn"
 
 msgctxt "UIHelper|"
 msgid "Restart"
@@ -2654,7 +2647,7 @@ msgstr "Tải xuống đến..."
 
 msgctxt "UIHelper|"
 msgid "Move to trash"
-msgstr "Di chuyển vào thùng rác"
+msgstr "Chuyển vào thùng rác"
 
 msgctxt "UIHelper|"
 msgid "Delete files"
@@ -2690,7 +2683,7 @@ msgstr "Sao chép đường dẫn"
 
 msgctxt "UIHelper|"
 msgid "See on YouTube"
-msgstr ""
+msgstr "Xem trên YouTube"
 
 msgctxt "UIHelper|"
 msgid "Add tag"
@@ -2706,7 +2699,7 @@ msgstr "Lập lịch biểu"
 
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr ""
+msgstr "Thay đổi URL"
 
 msgctxt "UIHelper|"
 msgid "High priority"
@@ -2734,7 +2727,7 @@ msgstr "Loại bỏ"
 
 msgctxt "UIHelper|"
 msgid "Untag"
-msgstr "Bỏ nhãn"
+msgstr "Bỏ thẻ"
 
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
@@ -2769,14 +2762,14 @@ msgstr "%1 M"
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr "Thiếu tệp tin"
+msgstr "Tập tin bị mất"
 #~ msgctxt "YoutubeDownload|"
 #~ msgid "Error: files are missing."
-#~ msgstr "Lỗi: các tệp tin bị thiếu."
+#~ msgstr "Lỗi: các tệp tin bị mất."
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
-msgstr "Đã di chuyển các tệp thành công"
+msgstr "Chuyển các tệp thành công"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2820,11 +2813,11 @@ msgstr "Luồng video: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Parsing page"
-msgstr ""
+msgstr "Phân tích cú pháp Trang"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
-msgstr "Trang đã phân tích cú pháp"
+msgstr "Đã phân tích cú pháp Trang"
 
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
@@ -2846,7 +2839,7 @@ msgstr "Di chuyển bị từ chối: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
-msgstr "Đã di chuyển thành công"
+msgstr "Di chuyển thành công"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
